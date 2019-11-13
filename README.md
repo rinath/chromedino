@@ -1,5 +1,5 @@
 # chromedino
-This is python script that plays default Dino chrome browser game (when there is no internet).
+This is a python bot that plays Chrome Dinosaur game (when there is no internet).
 Requires PIL and pyautogui libs
 
 To run this script:
@@ -8,3 +8,4 @@ To run this script:
 3. Run this script.
 
 Works only for 1366x768 displays.
+![Game](q.jpg)

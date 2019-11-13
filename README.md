@@ -7,5 +7,6 @@ To run this script:
 2. Open Dino game tab.
 3. Run this script.
 
-Works only for 1366x768 displays.
 ![Game](q.jpg)
+
+Works only for 1366x768 displays.
